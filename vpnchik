@@ -11,6 +11,7 @@ trojan://_puP4FsWmEo3tKhBX2uvB0wB97kWZTDc@5.188.114.113:8443?type=tcp&headerType
 trojan://_puP4FsWmEo3tKhBX2uvB0wB97kWZTDc@90.156.218.179:443?type=tcp&headerType=none&security=tls&sni=servour.speedload.ru&alpn=h2,http/1.1&fp=firefox&allowInsecure=0#🇸🇴Обход #2
 trojan://_puP4FsWmEo3tKhBX2uvB0wB97kWZTDc@185.91.53.148:8443?type=tcp&headerType=none&security=tls&sni=polyarone.speedload.ru&alpn=h2,http/1.1&fp=firefox&allowInsecure=0#🇸🇴Обход #3
 trojan://_puP4FsWmEo3tKhBX2uvB0wB97kWZTDc@90.156.218.179:443?type=tcp&headerType=none&security=tls&sni=servour.speedload.ru&alpn=h2,http/1.1&fp=firefox&allowInsecure=0#🇸🇴Обход #4
-trojan://_puP4FsWmEo3tKhBX2uvB0wB97kWZTDc@185.91.54.96:8443?type=tcp&headerType=none&security=tls&sni=polyartwo.speedload.ru&alpn=h2,http/1.1&fp=firefox&allowInsecure=0#🇸🇴Обход #5
-trojan://_puP4FsWmEo3tKhBX2uvB0wB97kWZTDc@90.156.218.179:443?type=tcp&headerType=none&security=tls&sni=servour.speedload.ru&alpn=h2,http/1.1&fp=firefox&allowInsecure=0#🇸🇴Обход #6
-trojan://_puP4FsWmEo3tKhBX2uvB0wB97kWZTDc@185.91.54.224:7443?type=tcp&headerType=none&security=tls&sni=fiverecord.speedload.ru&alpn=h2,http/1.1&fp=firefox&allowInsecure=0#🇸🇴Обход #7
+trojan://_puP4FsWmEo3tKhBX2uvB0wB97kWZTDc@185.91.53.148:8443?type=tcp&headerType=none&security=tls&sni=polyarone.speedload.ru&alpn=h2,http/1.1&fp=firefox&allowInsecure=0#🇸🇴Обход #5 (для TikTok)
+trojan://_puP4FsWmEo3tKhBX2uvB0wB97kWZTDc@90.156.218.179:443?type=tcp&headerType=none&security=tls&sni=servour.speedload.ru&alpn=h2,http/1.1&fp=firefox&allowInsecure=0#🇸🇴Обход #6 (для TikTok)
+trojan://_puP4FsWmEo3tKhBX2uvB0wB97kWZTDc@5.188.114.113:8443?type=tcp&headerType=none&security=tls&sni=polyarthree.speedload.ru&alpn=h2,http/1.1&fp=firefox&allowInsecure=0#🇸🇴Обход #7 (для TikTok)
+trojan://_puP4FsWmEo3tKhBX2uvB0wB97kWZTDc@90.156.218.179:443?type=tcp&headerType=none&security=tls&sni=servour.speedload.ru&alpn=h2,http/1.1&fp=firefox&allowInsecure=0#🇸🇴Обход #8 (для TikTok)
