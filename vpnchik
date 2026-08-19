@@ -7,8 +7,9 @@ vless://6a817e2d-1c8f-4e95-ae6a-acdf6bee66a5@se.bvpn.cc:443?encryption=none&flow
 vless://6a817e2d-1c8f-4e95-ae6a-acdf6bee66a5@uk.bvps.cloud:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=uk.bvps.cloud&fp=firefox&pbk=j5qmR8E9er-0n5zZbK6s_SdvYm-tYlraXVYm49ArWS8&sid=60debb3ab744d8ce&type=tcp#🇬🇧United Kingdom
 vless://bd252f86-623f-4f04-9105-f7439bb7b518@72.56.252.101:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=auth.slaycraft.cc&pbk=ZCwvbWFLHaibOWfI68vnoCbtMCGNpAqigFcN_lcK8Ws&sid=22fbad611b54142c#🇷🇺Россия | YouTube
 vless://528168c0-7c19-4d5f-b18b-2799bedbaeed@0.0.0.0:1?type=tcp&headerType=none&security=none#ОБХОДЫ БЕЛЫХ СПИСКОВ (не гарант)
-vless://4a94bfcf-6b77-001e-8dbc-144054621054@beijin.ispcamel.com:443?type=grpc&mode=gun&serviceName=beijin.ispcamel.com&security=reality&fp=firefox&sni=beijin.ispcamel.com&pbk=qp-Ix8nzD3cyee6hAyXBLED_tO_d5AxTwbbm2vF89EY#🇸🇴Обход #1
-vless://4a94bfcf-6b77-001e-8dbc-144054621054@kalugaru.instrumentidlyadoma.com:443?type=grpc&mode=gun&serviceName=kalugaru.instrumentidlyadoma.com&security=reality&fp=firefox&sni=kalugaru.instrumentidlyadoma.com&pbk=tv8VCP2i9WGt3tEaCbdo93NVHwl6Evd1aB6OpnG3ZDs#🇸🇴Обход #2
-vless://4a94bfcf-6b77-001e-8dbc-144054621054@elecru.instrumentidlyadoma.com:443?type=grpc&mode=gun&serviceName=elecru.instrumentidlyadoma.com&security=reality&fp=firefox&sni=elecru.instrumentidlyadoma.com&pbk=qmj3LynPhFqW4pVQf47vfPx-nnykWXxuzNoWmw_DEyc#🇸🇴Обход #3
-vless://4a94bfcf-6b77-001e-8dbc-144054621054@beijin.ispcamel.com:443?type=grpc&mode=gun&serviceName=beijin.ispcamel.com&security=reality&fp=firefox&sni=beijin.ispcamel.com&pbk=qp-Ix8nzD3cyee6hAyXBLED_tO_d5AxTwbbm2vF89EY#🇸🇴Обход #4
-vless://4a94bfcf-6b77-001e-8dbc-144054621054@beltimor.ispcamel.com:443?type=grpc&mode=gun&serviceName=beltimor.ispcamel.com&security=reality&fp=firefox&sni=beltimor.ispcamel.com&pbk=mcSB8VHQwqXzWo7oA7RWii3SLVngh63eJOEjxqHKzn8#🇸🇴Обход #5
+trojan://YhpjrczFEvwoe-rFtAAEMNJVA1ov-kna@46.8.209.173:443?type=tcp&headerType=none&security=tls&sni=node205.overgroup.cloud&alpn=http/1.1,h2&fp=firefox#🇸🇴Обход #1
+trojan://YhpjrczFEvwoe-rFtAAEMNJVA1ov-kna@46.8.209.174:443?type=tcp&headerType=none&security=tls&sni=node205.overgroup.cloud&alpn=http/1.1,h2&fp=firefox#🇸🇴Обход #2
+trojan://YhpjrczFEvwoe-rFtAAEMNJVA1ov-kna@46.8.209.155:443?type=tcp&headerType=none&security=tls&sni=node205.overgroup.cloud&alpn=h2,http/1.1&fp=firefox#🇸🇴Обход #3
+trojan://YhpjrczFEvwoe-rFtAAEMNJVA1ov-kna@185.229.9.58:443?type=tcp&headerType=none&security=tls&sni=node205.overgroup.cloud&alpn=h2,http/1.1&fp=firefox#🇸🇴Обход #4
+trojan://YhpjrczFEvwoe-rFtAAEMNJVA1ov-kna@46.254.19.121:443?type=tcp&headerType=none&security=tls&sni=polyartwo.speedload.ru&alpn=h2,http/1.1&fp=firefox#🇸🇴Обход #5
+trojan://YhpjrczFEvwoe-rFtAAEMNJVA1ov-kna@46.254.17.242:443?type=tcp&headerType=none&security=tls&sni=polyartwo.speedload.ru&alpn=h2,http/1.1&fp=firefox#🇸🇴Обход #6
