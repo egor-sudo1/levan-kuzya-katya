@@ -5,9 +5,8 @@ vless://52a39184-2f28-4aea-9c1b-55862243d4ec@se.bvpn.cc:443?flow=xtls-rprx-visio
 vless://bd252f86-623f-4f04-9105-f7439bb7b518@93.152.223.97:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=mods.slaycraft.cc&pbk=iK6WUlA8Rxdt7w6vtrRpbrPda-ohPmkkH93TO0uoTm0&sid=e83aeb9a6c55952d#🇩🇪Германия
 vless://bd252f86-623f-4f04-9105-f7439bb7b518@72.56.252.101:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=auth.slaycraft.cc&fp=firefox&pbk=ZCwvbWFLHaibOWfI68vnoCbtMCGNpAqigFcN_lcK8Ws&sid=22fbad611b54142c&type=tcp#🇷🇺Россия | YouTube
 vless://528168c0-7c19-4d5f-b18b-2799bedbaeed@0.0.0.0:1?type=tcp&headerType=none&security=none#ОБХОДЫ БЕЛЫХ СПИСКОВ (не гарант)
-trojan://YhpjrczFEvwoe-rFtAAEMNJVA1ov-kna@46.8.209.173:443?type=tcp&headerType=none&security=tls&sni=node205.overgroup.cloud&alpn=http/1.1,h2&fp=firefox#🇸🇴Обход #1
-trojan://YhpjrczFEvwoe-rFtAAEMNJVA1ov-kna@46.8.209.174:443?type=tcp&headerType=none&security=tls&sni=node205.overgroup.cloud&alpn=http/1.1,h2&fp=firefox#🇸🇴Обход #2
-trojan://YhpjrczFEvwoe-rFtAAEMNJVA1ov-kna@46.8.209.155:443?type=tcp&headerType=none&security=tls&sni=node205.overgroup.cloud&alpn=h2,http/1.1&fp=firefox#🇸🇴Обход #3
-trojan://YhpjrczFEvwoe-rFtAAEMNJVA1ov-kna@185.229.9.58:443?type=tcp&headerType=none&security=tls&sni=node205.overgroup.cloud&alpn=h2,http/1.1&fp=firefox#🇸🇴Обход #4
-trojan://YhpjrczFEvwoe-rFtAAEMNJVA1ov-kna@46.254.19.121:443?type=tcp&headerType=none&security=tls&sni=polyartwo.speedload.ru&alpn=h2,http/1.1&fp=firefox#🇸🇴Обход #5
-trojan://YhpjrczFEvwoe-rFtAAEMNJVA1ov-kna@46.254.17.242:443?type=tcp&headerType=none&security=tls&sni=polyartwo.speedload.ru&alpn=h2,http/1.1&fp=firefox#🇸🇴Обход #6
+trojan://Qm6SgsjjWdE1LDcrBSyhsq457ovAWRxm@37.143.15.31:443?type=tcp&security=tls&sni=node107.overcdn.ru&alpn=h2,http/1.1&fp=firefox#🇸🇴Обход #1
+trojan://Qm6SgsjjWdE1LDcrBSyhsq457ovAWRxm@91.218.230.227:443?type=tcp&security=tls&sni=polyarone.speedload.ru&alpn=h2,http/1.1&fp=firefox#🇸🇴Обход #2
+trojan://Qm6SgsjjWdE1LDcrBSyhsq457ovAWRxm@37.143.15.213:443?type=tcp&security=tls&sni=node107.overcdn.ru&alpn=h2,http/1.1&fp=firefox#🇸🇴Обход #3
+trojan://Qm6SgsjjWdE1LDcrBSyhsq457ovAWRxm@91.218.230.145:443?type=tcp&security=tls&sni=polyarone.speedload.ru&alpn=h2,http/1.1&fp=firefox#🇸🇴Обход #4
+trojan://Qm6SgsjjWdE1LDcrBSyhsq457ovAWRxm@37.143.15.49:443?type=tcp&security=tls&sni=node107.overcdn.ru&alpn=h2,http/1.1&fp=firefox#🇸🇴Обход #5
