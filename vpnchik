@@ -10,3 +10,5 @@ trojan://Qm6SgsjjWdE1LDcrBSyhsq457ovAWRxm@91.218.230.227:443?type=tcp&security=t
 trojan://Qm6SgsjjWdE1LDcrBSyhsq457ovAWRxm@37.143.15.213:443?type=tcp&security=tls&sni=node107.overcdn.ru&alpn=h2,http/1.1&fp=firefox#🇸🇴Обход #3
 trojan://Qm6SgsjjWdE1LDcrBSyhsq457ovAWRxm@91.218.230.145:443?type=tcp&security=tls&sni=polyarone.speedload.ru&alpn=h2,http/1.1&fp=firefox#🇸🇴Обход #4
 trojan://Qm6SgsjjWdE1LDcrBSyhsq457ovAWRxm@37.143.15.49:443?type=tcp&security=tls&sni=node107.overcdn.ru&alpn=h2,http/1.1&fp=firefox#🇸🇴Обход #5
+vless://3529e67a-2186-4eb6-bcb8-7299effbb064@158.160.199.68:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=ads.x5.ru&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426#🇸🇴Обход #6 | МегаФон
+vless://51db3281-d0b2-4c9c-ad62-bb97d99cb307@158.160.188.34:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=firefox&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426&type=tcp#🇸🇴Обход #7 | МегаФон
