@@ -5,10 +5,11 @@ vless://52a39184-2f28-4aea-9c1b-55862243d4ec@se.bvpn.cc:443?flow=xtls-rprx-visio
 vless://bd252f86-623f-4f04-9105-f7439bb7b518@93.152.223.97:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=mods.slaycraft.cc&pbk=iK6WUlA8Rxdt7w6vtrRpbrPda-ohPmkkH93TO0uoTm0&sid=e83aeb9a6c55952d#🇩🇪Германия
 vless://bd252f86-623f-4f04-9105-f7439bb7b518@72.56.252.101:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=auth.slaycraft.cc&fp=firefox&pbk=ZCwvbWFLHaibOWfI68vnoCbtMCGNpAqigFcN_lcK8Ws&sid=22fbad611b54142c&type=tcp#🇷🇺Россия | YouTube
 vless://528168c0-7c19-4d5f-b18b-2799bedbaeed@0.0.0.0:1?type=tcp&headerType=none&security=none#ОБХОДЫ БЕЛЫХ СПИСКОВ (не гарант)
-trojan://Qm6SgsjjWdE1LDcrBSyhsq457ovAWRxm@37.143.15.31:443?type=tcp&security=tls&sni=node107.overcdn.ru&alpn=h2,http/1.1&fp=firefox#🇸🇴Обход #1
-trojan://Qm6SgsjjWdE1LDcrBSyhsq457ovAWRxm@91.218.230.227:443?type=tcp&security=tls&sni=polyarone.speedload.ru&alpn=h2,http/1.1&fp=firefox#🇸🇴Обход #2
-trojan://Qm6SgsjjWdE1LDcrBSyhsq457ovAWRxm@37.143.15.213:443?type=tcp&security=tls&sni=node107.overcdn.ru&alpn=h2,http/1.1&fp=firefox#🇸🇴Обход #3
-trojan://Qm6SgsjjWdE1LDcrBSyhsq457ovAWRxm@91.218.230.145:443?type=tcp&security=tls&sni=polyarone.speedload.ru&alpn=h2,http/1.1&fp=firefox#🇸🇴Обход #4
-trojan://Qm6SgsjjWdE1LDcrBSyhsq457ovAWRxm@37.143.15.49:443?type=tcp&security=tls&sni=node107.overcdn.ru&alpn=h2,http/1.1&fp=firefox#🇸🇴Обход #5
-vless://3529e67a-2186-4eb6-bcb8-7299effbb064@158.160.199.68:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=ads.x5.ru&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426#🇸🇴Обход #6 | МегаФон
-vless://51db3281-d0b2-4c9c-ad62-bb97d99cb307@158.160.188.34:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=firefox&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426&type=tcp#🇸🇴Обход #7 | МегаФон
+trojan://xkMBEVtL33Q2PcCXTHX_hNVQcr338r9N@37.143.15.31:443?type=tcp&headerType=none&security=tls&sni=node107.overcdn.ru&alpn=h2,http/1.1&fp=firefox#🇸🇴Обход #1
+trojan://xkMBEVtL33Q2PcCXTHX_hNVQcr338r9N@91.218.230.227:443?type=tcp&headerType=none&security=tls&sni=polyarone.speedload.ru&alpn=h2,http/1.1&fp=firefox#🇸🇴Обход #2
+trojan://xkMBEVtL33Q2PcCXTHX_hNVQcr338r9N@37.143.15.213:443?type=tcp&headerType=none&security=tls&sni=node107.overcdn.ru&alpn=h2,http/1.1&fp=firefox#🇸🇴Обход #3
+trojan://xkMBEVtL33Q2PcCXTHX_hNVQcr338r9N@91.218.230.145:443?type=tcp&headerType=none&security=tls&sni=polyarone.speedload.ru&alpn=h2,http/1.1&fp=firefox#🇸🇴Обход #4
+trojan://xkMBEVtL33Q2PcCXTHX_hNVQcr338r9N@37.143.15.49:443?type=tcp&headerType=none&security=tls&sni=node107.overcdn.ru&alpn=h2,http/1.1&fp=firefox#🇸🇴Обход #5
+trojan://xkMBEVtL33Q2PcCXTHX_hNVQcr338r9N@37.143.15.28:443?type=tcp&headerType=none&security=tls&sni=polyartwo.speedload.ru&alpn=h2,http/1.1&fp=firefox#🇸🇴Обход #6
+vless://3be2481d-4a92-4586-8a1e-600d89a1d025@158.160.199.68:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=ads.x5.ru&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426#🇸🇴Обход #7 | МегаФон
+vless://1f832300-dbec-4581-99bb-dd4ff72a2d9e@158.160.188.34:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=ads.x5.ru&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426#🇸🇴Обход #8 | МегаФон
